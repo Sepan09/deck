@@ -28,7 +28,7 @@ export default function Home() {
   const { isAuthenticated } = useSelector(getUser());
   const itemData =[
     {
-      img: "/public/Homepage.jpg",
+      img: "/Homepage.jpg",
       title: "work sheet"
     },
   ]
