@@ -49,3 +49,4 @@ To optimize your job search, we recommend that you use Career Cache while you ar
 <img width="857" alt="Screenshot 2024-02-13 at 4 30 18 PM" src="https://github.com/iambryantran/deck/assets/139257318/d8475a24-a423-4e91-9222-b5806e724d4e">
 
 ## Link
+- [deployed](https://career-cache.onrender.com)
